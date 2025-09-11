@@ -1,0 +1,53 @@
+- key: name
+  value: Caamanno
+- key: value
+  value: Helping to create value from technological knowledge
+- key: Description
+  value:
+  - Hello everyone!
+  - Welcome to my personal website.
+  - Im a seasoned software engineer with expertise in
+  - cloud computing,
+  - data science,
+  - artificial intelligence, and project management.
+  - Im committed to building secure, scalable solutions
+  - and sharing knowledge with the tech community.
+  - Feel free to get in touch with me below.
+  typed: true
+- key: Skills
+  value:
+    - Software Development
+    - Cloud & DevOps
+    - Data Analysis
+    - Business Analytics
+    - IT Project Management    
+- key: Studies
+  value:
+    - key: Bachelor-of
+      value: Science in Computer Engineering
+    - key: Bachelor-of
+      value: Business Administration
+    - key: Minor-in
+      value: Computer Programming 
+    - key: Minor-in
+      value: Enterprise Financial Information Systems
+- key: Code
+  value: public-repos
+  url: https://github.com/caamanno
+- key: Follow-me
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/caamanno
+    - value: Youtube
+      url: https://www.youtube.com/@caamanno      
+    - value: GitHub
+      url: https://github.com/caamanno
+    - value: Medium
+      url: https://medium.com/@caamanno
+    - value: Contact Me
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeLNZNiN-oAF-hl4Pj_90QWxiD8gnttfoDqsgMfEDqrJS_YtQ/viewform
+    - value: Book Appointment
+      url: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ11i3ld-rOXal9Ax5Y14XSdWB9-U9xLVcLNNue4G1ySgT2dk02Jkow8W93bdcJLGH45hKpoACU8      
+- key: CV
+  value: cv.pdf
+  url: https://drive.google.com/file/d/1Rt8upDHmJd5jRZ18n-rfw3hIqRnB0abu/view?usp=sharing      

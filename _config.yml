@@ -1,0 +1,28 @@
+url: "https://caamanno.github.io"
+baseurl: ""
+
+title: Caamanno
+description: Helping to create value from technological knowledge <
+color_bg: gray-9
+color_punct: green-9
+color_key: green-4
+color_value: green-4
+color_hover: green-5
+quotes: true
+commas: true
+lowercase: false
+newtab: false
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
